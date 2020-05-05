@@ -1,0 +1,10 @@
+{
+  "rules": {
+    "no-duplicate-variable": false,
+    "no-unused-variable":  [1, { "varsIgnorePattern": "^_" }],
+    "@typescript-eslint/no-unused-vars": [1, { "varsIgnorePattern": "^_" }]
+  },
+  "rulesDirectory": [
+    "node_modules/tslint-eslint-rules/dist/rules"
+  ]
+}

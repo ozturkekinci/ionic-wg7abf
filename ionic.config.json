@@ -1,0 +1,8 @@
+{
+  "name": "Eatgo",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "id": "df765483"
+}
